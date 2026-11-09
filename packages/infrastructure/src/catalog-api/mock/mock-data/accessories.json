@@ -1,0 +1,265 @@
+{
+  "PRD-1001": {
+    "groups": [
+      {
+        "categoryId": "connection-cables",
+        "title": "Connection cables",
+        "productIds": [
+          "PRD-1301",
+          "PRD-1302",
+          "PRD-1303",
+          "PRD-1304",
+          "PRD-1305",
+          "PRD-1306",
+          "PRD-1307"
+        ]
+      },
+      {
+        "categoryId": "mounting-accessories",
+        "title": "Mounting accessories",
+        "productIds": ["PRD-1401", "PRD-1403", "PRD-1999"]
+      }
+    ]
+  },
+  "PRD-1002": {
+    "groups": [
+      {
+        "categoryId": "connection-cables",
+        "title": "Connection cables",
+        "productIds": [
+          "PRD-1301",
+          "PRD-1302",
+          "PRD-1303",
+          "PRD-1304",
+          "PRD-1305",
+          "PRD-1306",
+          "PRD-1307"
+        ]
+      },
+      {
+        "categoryId": "mounting-accessories",
+        "title": "Mounting accessories",
+        "productIds": ["PRD-1401", "PRD-1403"]
+      }
+    ]
+  },
+  "PRD-1003": {
+    "groups": [
+      {
+        "categoryId": "connection-cables",
+        "title": "Connection cables",
+        "productIds": ["PRD-1301", "PRD-1302", "PRD-1303", "PRD-1305", "PRD-1306"]
+      },
+      {
+        "categoryId": "mounting-accessories",
+        "title": "Mounting accessories",
+        "productIds": ["PRD-1402"]
+      }
+    ]
+  },
+  "PRD-1004": {
+    "groups": [
+      {
+        "categoryId": "connection-cables",
+        "title": "Connection cables",
+        "productIds": ["PRD-1301", "PRD-1302", "PRD-1303", "PRD-1305", "PRD-1306"]
+      },
+      {
+        "categoryId": "mounting-accessories",
+        "title": "Mounting accessories",
+        "productIds": ["PRD-1402"]
+      }
+    ]
+  },
+  "PRD-1005": {
+    "groups": [
+      {
+        "categoryId": "connection-cables",
+        "title": "Connection cables",
+        "productIds": ["PRD-1301", "PRD-1302", "PRD-1303", "PRD-1305", "PRD-1306"]
+      },
+      {
+        "categoryId": "mounting-accessories",
+        "title": "Mounting accessories",
+        "productIds": ["PRD-1402"]
+      }
+    ]
+  },
+  "PRD-1006": {
+    "groups": [
+      {
+        "categoryId": "connection-cables",
+        "title": "Connection cables",
+        "productIds": ["PRD-1308"]
+      }
+    ]
+  },
+  "PRD-1007": {
+    "groups": []
+  },
+  "PRD-1101": {
+    "groups": [
+      {
+        "categoryId": "connection-cables",
+        "title": "Connection cables",
+        "productIds": ["PRD-1301", "PRD-1302", "PRD-1305", "PRD-1306"]
+      },
+      {
+        "categoryId": "mounting-accessories",
+        "title": "Mounting accessories",
+        "productIds": ["PRD-1402"]
+      }
+    ]
+  },
+  "PRD-1102": {
+    "groups": [
+      {
+        "categoryId": "connection-cables",
+        "title": "Connection cables",
+        "productIds": ["PRD-1301", "PRD-1302", "PRD-1305", "PRD-1306"]
+      },
+      {
+        "categoryId": "mounting-accessories",
+        "title": "Mounting accessories",
+        "productIds": ["PRD-1402", "PRD-1404"]
+      }
+    ]
+  },
+  "PRD-1103": {
+    "groups": [
+      {
+        "categoryId": "connection-cables",
+        "title": "Connection cables",
+        "productIds": ["PRD-1301", "PRD-1302", "PRD-1305", "PRD-1306"]
+      },
+      {
+        "categoryId": "mounting-accessories",
+        "title": "Mounting accessories",
+        "productIds": ["PRD-1402"]
+      }
+    ]
+  },
+  "PRD-1104": {
+    "groups": [
+      {
+        "categoryId": "connection-cables",
+        "title": "Connection cables",
+        "productIds": ["PRD-1301", "PRD-1302", "PRD-1303"]
+      },
+      {
+        "categoryId": "mounting-accessories",
+        "title": "Mounting accessories",
+        "productIds": ["PRD-1402"]
+      }
+    ]
+  },
+  "PRD-1105": {
+    "groups": [
+      {
+        "categoryId": "connection-cables",
+        "title": "Connection cables",
+        "productIds": ["PRD-1301", "PRD-1302", "PRD-1305", "PRD-1306"]
+      },
+      {
+        "categoryId": "mounting-accessories",
+        "title": "Mounting accessories",
+        "productIds": ["PRD-1402"]
+      }
+    ]
+  },
+  "PRD-1106": {
+    "groups": [
+      {
+        "categoryId": "connection-cables",
+        "title": "Connection cables",
+        "productIds": ["PRD-1301", "PRD-1302", "PRD-1305", "PRD-1306"]
+      },
+      {
+        "categoryId": "mounting-accessories",
+        "title": "Mounting accessories",
+        "productIds": ["PRD-1402"]
+      }
+    ]
+  },
+  "PRD-1201": {
+    "groups": [
+      {
+        "categoryId": "connection-cables",
+        "title": "Connection cables",
+        "productIds": ["PRD-1301", "PRD-1302", "PRD-1303", "PRD-1305"]
+      }
+    ]
+  },
+  "PRD-1202": {
+    "groups": [
+      {
+        "categoryId": "connection-cables",
+        "title": "Connection cables",
+        "productIds": ["PRD-1301", "PRD-1302", "PRD-1303", "PRD-1305"]
+      }
+    ]
+  },
+  "PRD-1203": {
+    "groups": [
+      {
+        "categoryId": "connection-cables",
+        "title": "Connection cables",
+        "productIds": ["PRD-1301", "PRD-1302", "PRD-1303", "PRD-1305"]
+      }
+    ]
+  },
+  "PRD-1204": {
+    "groups": [
+      {
+        "categoryId": "connection-cables",
+        "title": "Connection cables",
+        "productIds": ["PRD-1301", "PRD-1302", "PRD-1303", "PRD-1305"]
+      }
+    ]
+  },
+  "PRD-1205": {
+    "groups": [
+      {
+        "categoryId": "connection-cables",
+        "title": "Connection cables",
+        "productIds": ["PRD-1301", "PRD-1302", "PRD-1303", "PRD-1305"]
+      }
+    ]
+  },
+  "PRD-1301": {
+    "groups": []
+  },
+  "PRD-1302": {
+    "groups": []
+  },
+  "PRD-1303": {
+    "groups": []
+  },
+  "PRD-1304": {
+    "groups": []
+  },
+  "PRD-1305": {
+    "groups": []
+  },
+  "PRD-1306": {
+    "groups": []
+  },
+  "PRD-1307": {
+    "groups": []
+  },
+  "PRD-1308": {
+    "groups": []
+  },
+  "PRD-1401": {
+    "groups": []
+  },
+  "PRD-1402": {
+    "groups": []
+  },
+  "PRD-1403": {
+    "groups": []
+  },
+  "PRD-1404": {
+    "groups": []
+  }
+}

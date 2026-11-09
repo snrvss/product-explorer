@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <!-- Illustration for the mock catalog: a pressure sensor with a display head and process connection. -->
+  <rect width="400" height="400" fill="#ffffff"/>
+  <ellipse cx="200" cy="356" rx="110" ry="10" fill="#94a3b8" opacity="0.25"/>
+  <rect x="120" y="60" width="160" height="120" rx="18" fill="#0f9488"/>
+  <rect x="140" y="80" width="120" height="54" rx="6" fill="#0b1220"/>
+  <text x="200" y="120" font-family="monospace" font-size="34" text-anchor="middle" fill="#2fbfb1">10.0</text>
+  <circle cx="160" cy="157" r="7" fill="#e2e8f0"/>
+  <circle cx="240" cy="157" r="7" fill="#e2e8f0"/>
+  <rect x="170" y="180" width="60" height="100" fill="#cbd5e1"/>
+  <path d="M155 280h90l-10 25h-70Z" fill="#7b8798"/>
+  <rect x="180" y="305" width="40" height="40" fill="#94a3b8"/>
+  <g stroke="#7b8798" stroke-width="3"><path d="M180 315h40M180 325h40M180 335h40"/></g>
+</svg>

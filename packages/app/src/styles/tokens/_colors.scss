@@ -1,0 +1,105 @@
+// Semantic colour tokens for light and dark mode.
+// Written out as CSS custom properties (`--color-<name>`), because only those can change at
+// runtime: SCSS variables are fixed at build time and could not switch to dark mode.
+//
+// Contrast (WCAG AA) is checked by contrast.test.ts for every text/background pair: text ≥ 4.5:1,
+// borders of inputs and the focus ring ≥ 3:1. The bright accent is only used for areas and icons;
+// accent *text* uses `primary-text`, and text on accent buttons uses the dark `on-primary`.
+
+@use 'sass:map';
+@use 'palette' as *;
+
+$light: (
+  // Page and surfaces
+  'background': $neutral-50,
+  'background-alt': $tint-50,
+  'surface': $neutral-0,
+  'surface-chip': $neutral-100,
+  // Behind product photos. Product photos usually have a white background baked in.
+  'surface-image': $tint-100,
+  'border': $neutral-150,
+  'border-strong': $neutral-450,
+
+  // Text
+  'text': $neutral-950,
+  'text-secondary': $neutral-700,
+  'text-muted': $neutral-500,
+
+  // Brand / actions
+  'primary': $teal-500,
+  'primary-hover': $teal-450,
+  'primary-text': $teal-700,
+  'on-primary': $neutral-950,
+  'focus-ring': $teal-700,
+
+  // Status
+  'danger': $red-700,
+  'danger-surface': $red-50,
+  'warning': $amber-800,
+  'warning-surface': $amber-50,
+
+  // Loading placeholders
+  'skeleton': $neutral-100,
+  'skeleton-highlight': $neutral-0,
+
+  // Dimmed page behind a modal dialog (e.g. the enlarged product photo)
+  'scrim': rgba($neutral-950, 0.72)
+);
+
+$dark: (
+  'background': $neutral-950,
+  'background-alt': $neutral-925,
+  'surface': $neutral-900,
+  'surface-chip': $neutral-850,
+  // Stays light on purpose: the photos have a white background, a dark tile would show white boxes.
+  'surface-image': $tint-150,
+  'border': $neutral-800,
+  'border-strong': $neutral-450,
+
+  'text': $neutral-25,
+  'text-secondary': $neutral-300,
+  'text-muted': $neutral-400,
+
+  'primary': $teal-450,
+  'primary-hover': $teal-400,
+  'primary-text': $teal-400,
+  'on-primary': $neutral-950,
+  'focus-ring': $teal-400,
+
+  'danger': $red-300,
+  'danger-surface': $red-950,
+  'warning': $amber-300,
+  'warning-surface': $amber-950,
+
+  'skeleton': $neutral-850,
+  'skeleton-highlight': $neutral-800,
+
+  'scrim': rgba($neutral-950, 0.8),
+);
+
+// Writes a theme map out as `--color-<name>: <value>;`
+@mixin color-tokens($theme) {
+  @each $name, $value in $theme {
+    --color-#{$name}: #{$value};
+  }
+}
+
+// Light is the default.
+:root {
+  color-scheme: light;
+  @include color-tokens($light);
+}
+
+// Dark follows the operating system, unless a page explicitly forces light mode.
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    color-scheme: dark;
+    @include color-tokens($dark);
+  }
+}
+
+// Manual theme switch (ThemeToggle in the header): <html data-theme="dark">.
+:root[data-theme='dark'] {
+  color-scheme: dark;
+  @include color-tokens($dark);
+}

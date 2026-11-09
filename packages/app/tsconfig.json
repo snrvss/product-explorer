@@ -1,0 +1,11 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "jsx": "preserve",
+    "types": ["vite/client", "vitest/globals"],
+    // Own src first; core's and infrastructure's src as fallback for their files this package type-checks.
+    // Top-level folder names in src must not repeat a core folder name (see docs/TECHNICAL_CONCEPT.md).
+    "paths": { "@/*": ["./src/*", "../core/src/*", "../infrastructure/src/*"] }
+  },
+  "include": ["env.d.ts", "src/**/*.ts", "src/**/*.vue"]
+}

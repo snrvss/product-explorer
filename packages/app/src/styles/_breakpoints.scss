@@ -1,0 +1,38 @@
+// Breakpoints, mobile-first. SCSS variables instead of CSS custom properties, because media
+// queries can't use `var(…)`. This file only defines variables and mixins and outputs no CSS,
+// so components can `@use 'breakpoints' as *;` as often as they need.
+//
+//   mobile    0 – 639px     one column
+//   tablet  640 – 1023px    two-column card grid
+//   desktop 1024px +        two-column product hero, four-column card grid
+//   wide    1280px +        content stops growing (see --container-max)
+
+@use 'sass:map';
+
+$breakpoints: (
+  'tablet': 640px,
+  'desktop': 1024px,
+  'wide': 1280px,
+);
+
+// Styles from this breakpoint upwards (mobile-first).
+//   @include from('desktop') { grid-template-columns: repeat(4, 1fr); }
+@mixin from($name) {
+  @if not map.has-key($breakpoints, $name) {
+    @error 'Unknown breakpoint "#{$name}". Use one of: #{map.keys($breakpoints)}';
+  }
+  @media (min-width: map.get($breakpoints, $name)) {
+    @content;
+  }
+}
+
+// Styles below this breakpoint only, for the rare case mobile-first doesn't fit.
+//   @include until('tablet') { .search { display: none; } }
+@mixin until($name) {
+  @if not map.has-key($breakpoints, $name) {
+    @error 'Unknown breakpoint "#{$name}". Use one of: #{map.keys($breakpoints)}';
+  }
+  @media (max-width: (map.get($breakpoints, $name) - 0.02px)) {
+    @content;
+  }
+}

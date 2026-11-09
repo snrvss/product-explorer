@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 120" fill="none">
+  <!-- Flat, unDraw-style "no photo": an empty picture frame. Mid-tone greys, so it works on the
+       light and the dark image tile. Replaceable by a real unDraw download with the same name. -->
+  <rect x="24" y="18" width="112" height="84" rx="10" fill="#cbd5e1" opacity="0.55"/>
+  <rect x="32" y="26" width="96" height="68" rx="6" fill="#94a3b8" opacity="0.35"/>
+  <circle cx="104" cy="44" r="8" fill="#0f9488" opacity="0.85"/>
+  <path d="M32 84 58 56l18 18 12-12 40 32H38a6 6 0 0 1-6-6Z" fill="#7b8798" opacity="0.8"/>
+  <path d="M76 74 88 62l40 32H96Z" fill="#5b6779" opacity="0.8"/>
+</svg>

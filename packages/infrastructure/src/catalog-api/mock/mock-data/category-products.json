@@ -1,0 +1,259 @@
+{
+  "inductive-sensors": {
+    "products": [
+      {
+        "id": "PRD-1001",
+        "type": "Inductive proximity sensor",
+        "price": {
+          "amount": 84.9,
+          "currency": "EUR"
+        }
+      },
+      {
+        "id": "PRD-1002",
+        "type": "Inductive proximity sensor",
+        "price": {
+          "amount": 89.5,
+          "currency": "EUR"
+        }
+      },
+      {
+        "id": "PRD-1003",
+        "type": "Inductive proximity sensor",
+        "price": {
+          "amount": 92,
+          "currency": "EUR"
+        }
+      },
+      {
+        "id": "PRD-1004",
+        "type": "Inductive proximity sensor",
+        "price": {
+          "amount": 97.4,
+          "currency": "EUR"
+        }
+      },
+      {
+        "id": "PRD-1005",
+        "type": "Inductive proximity sensor",
+        "price": {
+          "amount": 118,
+          "currency": "EUR"
+        }
+      },
+      {
+        "id": "PRD-1006",
+        "type": "Inductive proximity sensor",
+        "price": {
+          "amount": 79.9,
+          "currency": "EUR"
+        }
+      },
+      {
+        "id": "PRD-1007",
+        "type": "Inductive ring sensor",
+        "price": {
+          "amount": 134,
+          "currency": "EUR"
+        }
+      }
+    ]
+  },
+  "photoelectric-sensors": {
+    "products": [
+      {
+        "id": "PRD-1101",
+        "type": "Diffuse reflection sensor",
+        "price": {
+          "amount": 129,
+          "currency": "EUR"
+        }
+      },
+      {
+        "id": "PRD-1102",
+        "type": "Retro-reflective sensor",
+        "price": {
+          "amount": 149,
+          "currency": "EUR"
+        }
+      },
+      {
+        "id": "PRD-1103",
+        "type": "Through-beam sensor",
+        "price": {
+          "amount": 189,
+          "currency": "EUR"
+        }
+      },
+      {
+        "id": "PRD-1104",
+        "type": "Laser distance sensor",
+        "price": {
+          "amount": 349,
+          "currency": "EUR"
+        }
+      },
+      {
+        "id": "PRD-1105",
+        "type": "Background suppression sensor",
+        "price": {
+          "amount": 159,
+          "currency": "EUR"
+        }
+      },
+      {
+        "id": "PRD-1106",
+        "type": "Fork sensor",
+        "price": {
+          "amount": 174,
+          "currency": "EUR"
+        }
+      }
+    ]
+  },
+  "pressure-sensors": {
+    "products": [
+      {
+        "id": "PRD-1201",
+        "type": "Pressure sensor with display",
+        "price": {
+          "amount": 289,
+          "currency": "EUR"
+        }
+      },
+      {
+        "id": "PRD-1202",
+        "type": "Pressure sensor with display",
+        "price": {
+          "amount": 279,
+          "currency": "EUR"
+        }
+      },
+      {
+        "id": "PRD-1203",
+        "type": "Pressure sensor with display",
+        "price": {
+          "amount": 279,
+          "currency": "EUR"
+        }
+      },
+      {
+        "id": "PRD-1204",
+        "type": "Pressure sensor with display",
+        "price": {
+          "amount": 299,
+          "currency": "EUR"
+        }
+      },
+      {
+        "id": "PRD-1205",
+        "type": "Pressure sensor with display",
+        "price": {
+          "amount": 319,
+          "currency": "EUR"
+        }
+      }
+    ]
+  },
+  "connection-cables": {
+    "products": [
+      {
+        "id": "PRD-1301",
+        "type": "Connection cable with socket",
+        "price": {
+          "amount": 12.9,
+          "currency": "EUR"
+        }
+      },
+      {
+        "id": "PRD-1302",
+        "type": "Connection cable with socket",
+        "price": {
+          "amount": 16.4,
+          "currency": "EUR"
+        }
+      },
+      {
+        "id": "PRD-1303",
+        "type": "Connection cable with socket",
+        "price": {
+          "amount": 23.8,
+          "currency": "EUR"
+        }
+      },
+      {
+        "id": "PRD-1304",
+        "type": "Connection cable with socket",
+        "price": {
+          "amount": 31.2,
+          "currency": "EUR"
+        }
+      },
+      {
+        "id": "PRD-1305",
+        "type": "Connection cable with angled socket",
+        "price": {
+          "amount": 13.9,
+          "currency": "EUR"
+        }
+      },
+      {
+        "id": "PRD-1306",
+        "type": "Connection cable with angled socket",
+        "price": {
+          "amount": 17.4,
+          "currency": "EUR"
+        }
+      },
+      {
+        "id": "PRD-1307",
+        "type": "Connection cable with angled socket",
+        "price": {
+          "amount": 24.8,
+          "currency": "EUR"
+        }
+      },
+      {
+        "id": "PRD-1308",
+        "type": "Connection cable with socket",
+        "price": {
+          "amount": 14.5,
+          "currency": "EUR"
+        }
+      }
+    ]
+  },
+  "mounting-accessories": {
+    "products": [
+      {
+        "id": "PRD-1401",
+        "type": "Mounting bracket",
+        "price": {
+          "amount": 9.8,
+          "currency": "EUR"
+        }
+      },
+      {
+        "id": "PRD-1402",
+        "type": "Mounting clamp",
+        "price": null
+      },
+      {
+        "id": "PRD-1403",
+        "type": "Protective cover",
+        "price": {
+          "amount": 6.4,
+          "currency": "EUR"
+        }
+      },
+      {
+        "id": "PRD-1404",
+        "type": "Reflector",
+        "price": {
+          "amount": 11.2,
+          "currency": "EUR"
+        }
+      }
+    ]
+  }
+}

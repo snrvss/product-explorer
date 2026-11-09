@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <!-- Illustration for the mock catalog: a coiled connection cable with a round socket. -->
+  <rect width="400" height="400" fill="#ffffff"/>
+  <ellipse cx="200" cy="340" rx="130" ry="10" fill="#94a3b8" opacity="0.25"/>
+  <g fill="none" stroke="#334155" stroke-width="14" stroke-linecap="round">
+    <ellipse cx="215" cy="230" rx="105" ry="70"/>
+    <ellipse cx="215" cy="230" rx="80" ry="50"/>
+    <path d="M110 230C90 180 100 140 130 120"/>
+  </g>
+  <rect x="100" y="60" width="64" height="80" rx="10" fill="#0f9488" transform="rotate(-20 132 100)"/>
+  <rect x="112" y="40" width="40" height="30" rx="5" fill="#94a3b8" transform="rotate(-20 132 100)"/>
+  <g fill="none" stroke="#7b8798" stroke-width="3" transform="rotate(-20 132 100)">
+    <path d="M112 50h40M112 58h40"/>
+  </g>
+</svg>

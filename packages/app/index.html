@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Product Explorer</title>
+    <script>
+      // Applies the saved theme before the page is drawn, so a dark choice doesn't flash light on
+      // every reload. Same key as THEME_STORAGE_KEY in src/helpers/theme (tested there).
+      // Without a saved theme nothing is set, and the CSS follows the system theme.
+      try {
+        const theme = localStorage.getItem('product-explorer:theme')
+        if (theme === 'light' || theme === 'dark') {
+          document.documentElement.dataset.theme = theme
+        }
+      } catch {
+        // Storage blocked: the page follows the system theme.
+      }
+    </script>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

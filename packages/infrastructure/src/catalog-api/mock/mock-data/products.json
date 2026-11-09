@@ -1,0 +1,700 @@
+{
+  "PRD-1001": {
+    "id": "PRD-1001",
+    "title": "PRD-1001",
+    "type": "Inductive proximity sensor",
+    "summary": "Inductive proximity sensor; M12 x 1 housing; Sensing range 4 mm; flush mounting; PNP; normally open; IP67; M12 connector",
+    "features": [
+      "Stainless steel housing for harsh environments",
+      "Sensing range 4 mm, flush mountable",
+      "Switching status LED visible from all sides",
+      "Remote diagnostics through a digital interface"
+    ],
+    "images": {
+      "140": "/mock-images/inductive-sensor.svg",
+      "200": "/mock-images/inductive-sensor.svg",
+      "300": "/mock-images/inductive-sensor.svg",
+      "400": "/mock-images/inductive-sensor.svg"
+    },
+    "price": {
+      "amount": 84.9,
+      "currency": "EUR"
+    },
+    "formattedPrice": "84,90 €",
+    "categoryId": "inductive-sensors",
+    "url": "/products/PRD-1001"
+  },
+  "PRD-1002": {
+    "id": "PRD-1002",
+    "title": "PRD-1002",
+    "type": "Inductive proximity sensor",
+    "summary": "Inductive proximity sensor; M12 x 1 housing; Sensing range 8 mm; non-flush mounting; PNP; normally open; IP67; M12 connector",
+    "features": [
+      "Stainless steel housing for harsh environments",
+      "Sensing range 8 mm, non-flush mountable",
+      "Switching status LED visible from all sides",
+      "Remote diagnostics through a digital interface"
+    ],
+    "images": {
+      "140": "/mock-images/inductive-sensor.svg",
+      "200": "/mock-images/inductive-sensor.svg",
+      "300": "/mock-images/inductive-sensor.svg",
+      "400": "/mock-images/inductive-sensor.svg"
+    },
+    "price": {
+      "amount": 89.5,
+      "currency": "EUR"
+    },
+    "formattedPrice": "89,50 €",
+    "categoryId": "inductive-sensors",
+    "url": "/products/PRD-1002"
+  },
+  "PRD-1003": {
+    "id": "PRD-1003",
+    "title": "PRD-1003",
+    "type": "Inductive proximity sensor",
+    "summary": "Inductive proximity sensor; M18 x 1 housing; Sensing range 8 mm; flush mounting; PNP; normally open; IP67; M12 connector",
+    "features": [
+      "Stainless steel housing for harsh environments",
+      "Sensing range 8 mm, flush mountable",
+      "Switching status LED visible from all sides",
+      "Remote diagnostics through a digital interface"
+    ],
+    "images": {
+      "140": "/mock-images/inductive-sensor.svg",
+      "200": "/mock-images/inductive-sensor.svg",
+      "300": "/mock-images/inductive-sensor.svg",
+      "400": "/mock-images/inductive-sensor.svg"
+    },
+    "price": {
+      "amount": 92,
+      "currency": "EUR"
+    },
+    "formattedPrice": "92,00 €",
+    "categoryId": "inductive-sensors",
+    "url": "/products/PRD-1003"
+  },
+  "PRD-1004": {
+    "id": "PRD-1004",
+    "title": "PRD-1004",
+    "type": "Inductive proximity sensor",
+    "summary": "Inductive proximity sensor; M18 x 1 housing; Sensing range 12 mm; non-flush mounting; PNP; normally open; IP67; M12 connector",
+    "features": [
+      "Stainless steel housing for harsh environments",
+      "Sensing range 12 mm, non-flush mountable",
+      "Switching status LED visible from all sides",
+      "Remote diagnostics through a digital interface"
+    ],
+    "images": {
+      "140": "/mock-images/inductive-sensor.svg",
+      "200": "/mock-images/inductive-sensor.svg",
+      "300": "/mock-images/inductive-sensor.svg",
+      "400": "/mock-images/inductive-sensor.svg"
+    },
+    "price": {
+      "amount": 97.4,
+      "currency": "EUR"
+    },
+    "formattedPrice": "97,40 €",
+    "categoryId": "inductive-sensors",
+    "url": "/products/PRD-1004"
+  },
+  "PRD-1005": {
+    "id": "PRD-1005",
+    "title": "PRD-1005",
+    "type": "Inductive proximity sensor",
+    "summary": "Inductive proximity sensor; M30 x 1 housing; Sensing range 15 mm; flush mounting; PNP; normally open; IP67; M12 connector",
+    "features": [
+      "Stainless steel housing for harsh environments",
+      "Sensing range 15 mm, flush mountable",
+      "Switching status LED visible from all sides",
+      "Remote diagnostics through a digital interface"
+    ],
+    "images": {
+      "140": "/mock-images/inductive-sensor.svg",
+      "200": "/mock-images/inductive-sensor.svg",
+      "300": "/mock-images/inductive-sensor.svg",
+      "400": "/mock-images/inductive-sensor.svg"
+    },
+    "price": {
+      "amount": 118,
+      "currency": "EUR"
+    },
+    "formattedPrice": "118,00 €",
+    "categoryId": "inductive-sensors",
+    "url": "/products/PRD-1005"
+  },
+  "PRD-1006": {
+    "id": "PRD-1006",
+    "title": "PRD-1006",
+    "type": "Inductive proximity sensor",
+    "summary": "Inductive proximity sensor; M8 x 1 housing; Sensing range 2 mm; flush mounting; PNP; normally open; IP67; M12 connector",
+    "features": [
+      "Stainless steel housing for harsh environments",
+      "Sensing range 2 mm, flush mountable",
+      "Switching status LED visible from all sides",
+      "Remote diagnostics through a digital interface"
+    ],
+    "images": {
+      "140": "/mock-images/inductive-sensor.svg",
+      "200": "/mock-images/inductive-sensor.svg",
+      "300": "/mock-images/inductive-sensor.svg",
+      "400": "/mock-images/inductive-sensor.svg"
+    },
+    "price": {
+      "amount": 79.9,
+      "currency": "EUR"
+    },
+    "formattedPrice": "79,90 €",
+    "categoryId": "inductive-sensors",
+    "url": "/products/PRD-1006"
+  },
+  "PRD-1007": {
+    "id": "PRD-1007",
+    "title": "PRD-1007",
+    "type": "Inductive ring sensor",
+    "summary": "Inductive ring sensor; Opening 20 mm; Detects small metal parts passing through; PNP; IP67; 2 m PVC cable",
+    "features": [
+      "Detects screws, rivets and pins in free fall",
+      "Adjustable sensitivity",
+      "Cable attached, no accessories needed"
+    ],
+    "images": {
+      "140": "/mock-images/inductive-sensor.svg",
+      "200": "/mock-images/inductive-sensor.svg",
+      "300": "/mock-images/inductive-sensor.svg",
+      "400": "/mock-images/inductive-sensor.svg"
+    },
+    "price": {
+      "amount": 134,
+      "currency": "EUR"
+    },
+    "formattedPrice": "134,00 €",
+    "categoryId": "inductive-sensors",
+    "url": "/products/PRD-1007"
+  },
+  "PRD-1101": {
+    "id": "PRD-1101",
+    "title": "PRD-1101",
+    "type": "Diffuse reflection sensor",
+    "summary": "Diffuse reflection sensor; Range 0.02…1 m; Red light; M18 x 1 housing; PNP; IP67; M12 connector",
+    "features": [
+      "Visible red light spot for easy alignment",
+      "Sensitivity set with a teach button",
+      "Robust plastic housing"
+    ],
+    "images": {
+      "140": "/mock-images/photoelectric-sensor.svg",
+      "200": "/mock-images/photoelectric-sensor.svg",
+      "300": "/mock-images/photoelectric-sensor.svg",
+      "400": "/mock-images/photoelectric-sensor.svg"
+    },
+    "price": {
+      "amount": 129,
+      "currency": "EUR"
+    },
+    "formattedPrice": "129,00 €",
+    "categoryId": "photoelectric-sensors",
+    "url": "/products/PRD-1101"
+  },
+  "PRD-1102": {
+    "id": "PRD-1102",
+    "title": "PRD-1102",
+    "type": "Retro-reflective sensor",
+    "summary": "Retro-reflective sensor; Range 0.1…8 m; Polarisation filter; PNP; IP67; M12 connector",
+    "features": [
+      "Polarisation filter: reliable on shiny objects",
+      "Long range of up to 8 m",
+      "Needs a reflector (see accessories)"
+    ],
+    "images": {
+      "140": "/mock-images/photoelectric-sensor.svg",
+      "200": "/mock-images/photoelectric-sensor.svg",
+      "300": "/mock-images/photoelectric-sensor.svg",
+      "400": "/mock-images/photoelectric-sensor.svg"
+    },
+    "price": {
+      "amount": 149,
+      "currency": "EUR"
+    },
+    "formattedPrice": "149,00 €",
+    "categoryId": "photoelectric-sensors",
+    "url": "/products/PRD-1102"
+  },
+  "PRD-1103": {
+    "id": "PRD-1103",
+    "title": "PRD-1103",
+    "type": "Through-beam sensor",
+    "summary": "Through-beam sensor; Transmitter and receiver; Range 0…20 m; Infrared light; PNP; IP67; M12 connector",
+    "features": [
+      "Highest operating reserve, also in dusty areas",
+      "Transmitter and receiver in one set",
+      "Range up to 20 m"
+    ],
+    "images": {
+      "140": "/mock-images/photoelectric-sensor.svg",
+      "200": "/mock-images/photoelectric-sensor.svg",
+      "300": "/mock-images/photoelectric-sensor.svg",
+      "400": "/mock-images/photoelectric-sensor.svg"
+    },
+    "price": {
+      "amount": 189,
+      "currency": "EUR"
+    },
+    "formattedPrice": "189,00 €",
+    "categoryId": "photoelectric-sensors",
+    "url": "/products/PRD-1103"
+  },
+  "PRD-1104": {
+    "id": "PRD-1104",
+    "title": "PRD-1104",
+    "type": "Laser distance sensor",
+    "summary": "Laser distance sensor; Measuring range 0.05…3 m; Analogue output 4…20 mA; Laser class 1; IP67; M12 connector",
+    "features": [
+      "Measures distance with millimetre resolution",
+      "Analogue and switching output",
+      "Eye-safe laser class 1",
+      "Display for setup without software"
+    ],
+    "images": {
+      "140": "/mock-images/photoelectric-sensor.svg",
+      "200": "/mock-images/photoelectric-sensor.svg",
+      "300": "/mock-images/photoelectric-sensor.svg",
+      "400": "/mock-images/photoelectric-sensor.svg"
+    },
+    "price": {
+      "amount": 349,
+      "currency": "EUR"
+    },
+    "formattedPrice": "349,00 €",
+    "categoryId": "photoelectric-sensors",
+    "url": "/products/PRD-1104"
+  },
+  "PRD-1105": {
+    "id": "PRD-1105",
+    "title": "PRD-1105",
+    "type": "Background suppression sensor",
+    "summary": "Background suppression sensor; Range 30…300 mm; Red light; PNP; IP67; M12 connector",
+    "features": [
+      "Ignores objects behind the set range",
+      "Detects dark and bright objects equally well"
+    ],
+    "images": null,
+    "price": {
+      "amount": 159,
+      "currency": "EUR"
+    },
+    "formattedPrice": "159,00 €",
+    "categoryId": "photoelectric-sensors",
+    "url": "/products/PRD-1105"
+  },
+  "PRD-1106": {
+    "id": "PRD-1106",
+    "title": "PRD-1106",
+    "type": "Fork sensor",
+    "summary": "Fork sensor; Slot width 30 mm; Infrared light; PNP; IP65; M8 connector",
+    "features": [
+      "Transmitter and receiver aligned in one housing",
+      "Detects small parts and labels",
+      "Switching frequency up to 2 kHz"
+    ],
+    "images": {
+      "140": "/mock-images/photoelectric-sensor.svg",
+      "200": "/mock-images/photoelectric-sensor.svg",
+      "300": "/mock-images/photoelectric-sensor.svg",
+      "400": "/mock-images/photoelectric-sensor.svg"
+    },
+    "price": {
+      "amount": 174,
+      "currency": "EUR"
+    },
+    "formattedPrice": "174,00 €",
+    "categoryId": "photoelectric-sensors",
+    "url": "/products/PRD-1106"
+  },
+  "PRD-1201": {
+    "id": "PRD-1201",
+    "title": "PRD-1201",
+    "type": "Pressure sensor with display",
+    "summary": "Pressure sensor with display; Measuring range 0…1 bar; G 1/4 process connection; 2 switching outputs; IP67; M12 connector",
+    "features": [
+      "Four-digit display, readable from a distance",
+      "Rotating housing for any mounting position",
+      "Overload protection up to 3 bar"
+    ],
+    "images": {
+      "140": "/mock-images/pressure-sensor.svg",
+      "200": "/mock-images/pressure-sensor.svg",
+      "300": "/mock-images/pressure-sensor.svg",
+      "400": "/mock-images/pressure-sensor.svg"
+    },
+    "price": {
+      "amount": 289,
+      "currency": "EUR"
+    },
+    "formattedPrice": "289,00 €",
+    "categoryId": "pressure-sensors",
+    "url": "/products/PRD-1201"
+  },
+  "PRD-1202": {
+    "id": "PRD-1202",
+    "title": "PRD-1202",
+    "type": "Pressure sensor with display",
+    "summary": "Pressure sensor with display; Measuring range 0…10 bar; G 1/4 process connection; 2 switching outputs; IP67; M12 connector",
+    "features": [
+      "Four-digit display, readable from a distance",
+      "Rotating housing for any mounting position",
+      "Overload protection up to 30 bar"
+    ],
+    "images": {
+      "140": "/mock-images/pressure-sensor.svg",
+      "200": "/mock-images/pressure-sensor.svg",
+      "300": "/mock-images/pressure-sensor.svg",
+      "400": "/mock-images/pressure-sensor.svg"
+    },
+    "price": {
+      "amount": 279,
+      "currency": "EUR"
+    },
+    "formattedPrice": "279,00 €",
+    "categoryId": "pressure-sensors",
+    "url": "/products/PRD-1202"
+  },
+  "PRD-1203": {
+    "id": "PRD-1203",
+    "title": "PRD-1203",
+    "type": "Pressure sensor with display",
+    "summary": "Pressure sensor with display; Measuring range 0…25 bar; G 1/4 process connection; 2 switching outputs; IP67; M12 connector",
+    "features": [
+      "Four-digit display, readable from a distance",
+      "Rotating housing for any mounting position",
+      "Overload protection up to 75 bar"
+    ],
+    "images": {
+      "140": "/mock-images/pressure-sensor.svg",
+      "200": "/mock-images/pressure-sensor.svg",
+      "300": "/mock-images/pressure-sensor.svg",
+      "400": "/mock-images/pressure-sensor.svg"
+    },
+    "price": {
+      "amount": 279,
+      "currency": "EUR"
+    },
+    "formattedPrice": "279,00 €",
+    "categoryId": "pressure-sensors",
+    "url": "/products/PRD-1203"
+  },
+  "PRD-1204": {
+    "id": "PRD-1204",
+    "title": "PRD-1204",
+    "type": "Pressure sensor with display",
+    "summary": "Pressure sensor with display; Measuring range 0…100 bar; G 1/4 process connection; 2 switching outputs; IP67; M12 connector",
+    "features": [
+      "Four-digit display, readable from a distance",
+      "Rotating housing for any mounting position",
+      "Overload protection up to 300 bar"
+    ],
+    "images": {
+      "140": "/mock-images/pressure-sensor.svg",
+      "200": "/mock-images/pressure-sensor.svg",
+      "300": "/mock-images/pressure-sensor.svg",
+      "400": "/mock-images/pressure-sensor.svg"
+    },
+    "price": {
+      "amount": 299,
+      "currency": "EUR"
+    },
+    "formattedPrice": "299,00 €",
+    "categoryId": "pressure-sensors",
+    "url": "/products/PRD-1204"
+  },
+  "PRD-1205": {
+    "id": "PRD-1205",
+    "title": "PRD-1205",
+    "type": "Pressure sensor with display",
+    "summary": "Pressure sensor with display; Measuring range 0…400 bar; G 1/4 process connection; 2 switching outputs; IP67; M12 connector",
+    "features": [
+      "Four-digit display, readable from a distance",
+      "Rotating housing for any mounting position",
+      "Overload protection up to 1200 bar"
+    ],
+    "images": {
+      "140": "/mock-images/pressure-sensor.svg",
+      "200": "/mock-images/pressure-sensor.svg",
+      "300": "/mock-images/pressure-sensor.svg",
+      "400": "/mock-images/pressure-sensor.svg"
+    },
+    "price": {
+      "amount": 319,
+      "currency": "EUR"
+    },
+    "formattedPrice": "319,00 €",
+    "categoryId": "pressure-sensors",
+    "url": "/products/PRD-1205"
+  },
+  "PRD-1301": {
+    "id": "PRD-1301",
+    "title": "PRD-1301",
+    "type": "Connection cable with socket",
+    "summary": "Connection cable with socket; 2 m PUR cable; M12 socket, straight; 4-pole; halogen-free",
+    "features": [
+      "Oil-resistant PUR jacket",
+      "Suitable for drag chains",
+      "Knurled nut made of stainless steel"
+    ],
+    "images": {
+      "140": "/mock-images/cable.svg",
+      "200": "/mock-images/cable.svg",
+      "300": "/mock-images/cable.svg",
+      "400": "/mock-images/cable.svg"
+    },
+    "price": {
+      "amount": 12.9,
+      "currency": "EUR"
+    },
+    "formattedPrice": "12,90 €",
+    "categoryId": "connection-cables",
+    "url": "/products/PRD-1301"
+  },
+  "PRD-1302": {
+    "id": "PRD-1302",
+    "title": "PRD-1302",
+    "type": "Connection cable with socket",
+    "summary": "Connection cable with socket; 5 m PUR cable; M12 socket, straight; 4-pole; halogen-free",
+    "features": [
+      "Oil-resistant PUR jacket",
+      "Suitable for drag chains",
+      "Knurled nut made of stainless steel"
+    ],
+    "images": {
+      "140": "/mock-images/cable.svg",
+      "200": "/mock-images/cable.svg",
+      "300": "/mock-images/cable.svg",
+      "400": "/mock-images/cable.svg"
+    },
+    "price": {
+      "amount": 16.4,
+      "currency": "EUR"
+    },
+    "formattedPrice": "16,40 €",
+    "categoryId": "connection-cables",
+    "url": "/products/PRD-1302"
+  },
+  "PRD-1303": {
+    "id": "PRD-1303",
+    "title": "PRD-1303",
+    "type": "Connection cable with socket",
+    "summary": "Connection cable with socket; 10 m PUR cable; M12 socket, straight; 4-pole; halogen-free",
+    "features": [
+      "Oil-resistant PUR jacket",
+      "Suitable for drag chains",
+      "Knurled nut made of stainless steel"
+    ],
+    "images": {
+      "140": "/mock-images/cable.svg",
+      "200": "/mock-images/cable.svg",
+      "300": "/mock-images/cable.svg",
+      "400": "/mock-images/cable.svg"
+    },
+    "price": {
+      "amount": 23.8,
+      "currency": "EUR"
+    },
+    "formattedPrice": "23,80 €",
+    "categoryId": "connection-cables",
+    "url": "/products/PRD-1303"
+  },
+  "PRD-1304": {
+    "id": "PRD-1304",
+    "title": "PRD-1304",
+    "type": "Connection cable with socket",
+    "summary": "Connection cable with socket; 15 m PUR cable; M12 socket, straight; 4-pole; halogen-free",
+    "features": [
+      "Oil-resistant PUR jacket",
+      "Suitable for drag chains",
+      "Knurled nut made of stainless steel"
+    ],
+    "images": {
+      "140": "/mock-images/cable.svg",
+      "200": "/mock-images/cable.svg",
+      "300": "/mock-images/cable.svg",
+      "400": "/mock-images/cable.svg"
+    },
+    "price": {
+      "amount": 31.2,
+      "currency": "EUR"
+    },
+    "formattedPrice": "31,20 €",
+    "categoryId": "connection-cables",
+    "url": "/products/PRD-1304"
+  },
+  "PRD-1305": {
+    "id": "PRD-1305",
+    "title": "PRD-1305",
+    "type": "Connection cable with angled socket",
+    "summary": "Connection cable with socket; 2 m PUR cable; M12 socket, angled; 4-pole; halogen-free",
+    "features": [
+      "Angled socket for tight spaces",
+      "Oil-resistant PUR jacket",
+      "Suitable for drag chains"
+    ],
+    "images": {
+      "140": "/mock-images/cable.svg",
+      "200": "/mock-images/cable.svg",
+      "300": "/mock-images/cable.svg",
+      "400": "/mock-images/cable.svg"
+    },
+    "price": {
+      "amount": 13.9,
+      "currency": "EUR"
+    },
+    "formattedPrice": "13,90 €",
+    "categoryId": "connection-cables",
+    "url": "/products/PRD-1305"
+  },
+  "PRD-1306": {
+    "id": "PRD-1306",
+    "title": "PRD-1306",
+    "type": "Connection cable with angled socket",
+    "summary": "Connection cable with socket; 5 m PUR cable; M12 socket, angled; 4-pole; halogen-free",
+    "features": [
+      "Angled socket for tight spaces",
+      "Oil-resistant PUR jacket",
+      "Suitable for drag chains"
+    ],
+    "images": {
+      "140": "/mock-images/cable.svg",
+      "200": "/mock-images/cable.svg",
+      "300": "/mock-images/cable.svg",
+      "400": "/mock-images/cable.svg"
+    },
+    "price": {
+      "amount": 17.4,
+      "currency": "EUR"
+    },
+    "formattedPrice": "17,40 €",
+    "categoryId": "connection-cables",
+    "url": "/products/PRD-1306"
+  },
+  "PRD-1307": {
+    "id": "PRD-1307",
+    "title": "PRD-1307",
+    "type": "Connection cable with angled socket",
+    "summary": "Connection cable with socket; 10 m PUR cable; M12 socket, angled; 4-pole; halogen-free",
+    "features": [
+      "Angled socket for tight spaces",
+      "Oil-resistant PUR jacket",
+      "Suitable for drag chains"
+    ],
+    "images": {
+      "140": "/mock-images/cable.svg",
+      "200": "/mock-images/cable.svg",
+      "300": "/mock-images/cable.svg",
+      "400": "/mock-images/cable.svg"
+    },
+    "price": {
+      "amount": 24.8,
+      "currency": "EUR"
+    },
+    "formattedPrice": "24,80 €",
+    "categoryId": "connection-cables",
+    "url": "/products/PRD-1307"
+  },
+  "PRD-1308": {
+    "id": "PRD-1308",
+    "title": "PRD-1308",
+    "type": "Connection cable with socket",
+    "summary": "Connection cable with socket; 3 m PUR cable; M8 socket, straight; 3-pole; halogen-free",
+    "features": ["Compact M8 socket for small sensors", "Oil-resistant PUR jacket"],
+    "images": {
+      "140": "/mock-images/cable.svg",
+      "200": "/mock-images/cable.svg",
+      "300": "/mock-images/cable.svg",
+      "400": "/mock-images/cable.svg"
+    },
+    "price": {
+      "amount": 14.5,
+      "currency": "EUR"
+    },
+    "formattedPrice": "14,50 €",
+    "categoryId": "connection-cables",
+    "url": "/products/PRD-1308"
+  },
+  "PRD-1401": {
+    "id": "PRD-1401",
+    "title": "PRD-1401",
+    "type": "Mounting bracket",
+    "summary": "Mounting bracket for M12 sensors; Stainless steel; Angled 90°",
+    "features": ["Stainless steel, corrosion resistant", "Slotted holes for fine adjustment"],
+    "images": {
+      "140": "/mock-images/mounting.svg",
+      "200": "/mock-images/mounting.svg",
+      "300": "/mock-images/mounting.svg",
+      "400": "/mock-images/mounting.svg"
+    },
+    "price": {
+      "amount": 9.8,
+      "currency": "EUR"
+    },
+    "formattedPrice": "9,80 €",
+    "categoryId": "mounting-accessories",
+    "url": "/products/PRD-1401"
+  },
+  "PRD-1402": {
+    "id": "PRD-1402",
+    "title": "PRD-1402",
+    "type": "Mounting clamp",
+    "summary": "Mounting clamp for M18 and M30 sensors; Die-cast zinc; Rod diameter 12 mm",
+    "features": ["Fits M18 and M30 housings", "Quick clamping without tools"],
+    "images": {
+      "140": "/mock-images/mounting.svg",
+      "200": "/mock-images/mounting.svg",
+      "300": "/mock-images/mounting.svg",
+      "400": "/mock-images/mounting.svg"
+    },
+    "price": null,
+    "formattedPrice": null,
+    "categoryId": "mounting-accessories",
+    "url": "/products/PRD-1402"
+  },
+  "PRD-1403": {
+    "id": "PRD-1403",
+    "title": "PRD-1403",
+    "type": "Protective cover",
+    "summary": "Protective cover for M12 sensors; Stainless steel; Protects against weld spatter",
+    "features": ["Protects the sensing face against weld spatter and impact"],
+    "images": {
+      "140": "/mock-images/mounting.svg",
+      "200": "/mock-images/mounting.svg",
+      "300": "/mock-images/mounting.svg",
+      "400": "/mock-images/mounting.svg"
+    },
+    "price": {
+      "amount": 6.4,
+      "currency": "EUR"
+    },
+    "formattedPrice": "6,40 €",
+    "categoryId": "mounting-accessories",
+    "url": "/products/PRD-1403"
+  },
+  "PRD-1404": {
+    "id": "PRD-1404",
+    "title": "PRD-1404",
+    "type": "Reflector",
+    "summary": "Reflector 50 x 50 mm; For retro-reflective sensors; Screw mounting",
+    "features": ["Prismatic reflector for polarisation filters", "Mounted with two screws"],
+    "images": {
+      "140": "/mock-images/mounting.svg",
+      "200": "/mock-images/mounting.svg",
+      "300": "/mock-images/mounting.svg",
+      "400": "/mock-images/mounting.svg"
+    },
+    "price": {
+      "amount": 11.2,
+      "currency": "EUR"
+    },
+    "formattedPrice": "11,20 €",
+    "categoryId": "mounting-accessories",
+    "url": "/products/PRD-1404"
+  }
+}

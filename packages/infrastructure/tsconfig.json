@@ -1,0 +1,10 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "types": ["vitest/globals"],
+    // Own src first; core's src as fallback for the core files this package type-checks.
+    // Top-level folder names in src must not repeat a core folder name (see docs/TECHNICAL_CONCEPT.md).
+    "paths": { "@/*": ["./src/*", "../core/src/*"] }
+  },
+  "include": ["index.ts", "src/**/*.ts"]
+}

@@ -1,0 +1,2 @@
+# Always LF, like Prettier expects (endOfLine: lf), also on Windows checkouts
+* text=auto eol=lf

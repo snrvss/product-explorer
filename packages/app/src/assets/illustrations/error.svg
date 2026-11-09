@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 160" fill="none">
+  <!-- Flat, unDraw-style "unplugged cable". Replaceable by a real unDraw download with the same name. -->
+  <ellipse cx="120" cy="142" rx="86" ry="8" fill="#94a3b8" opacity="0.25"/>
+  <path d="M20 110h50" stroke="#5b6779" stroke-width="6" stroke-linecap="round"/>
+  <rect x="66" y="94" width="34" height="32" rx="6" fill="#0f9488"/>
+  <path d="M100 102h14M100 118h14" stroke="#94a3b8" stroke-width="5" stroke-linecap="round"/>
+  <rect x="140" y="94" width="34" height="32" rx="6" fill="#cbd5e1"/>
+  <path d="M174 110h46" stroke="#5b6779" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="148" cy="104" r="3" fill="#5b6779"/>
+  <circle cx="148" cy="116" r="3" fill="#5b6779"/>
+  <path d="M120 40 142 78H98Z" fill="#0f9488"/>
+  <path d="M120 54v12" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="120" cy="72" r="2.5" fill="#ffffff"/>
+  <path d="M112 92l-6-8M128 92l6-8M120 90V80" stroke="#94a3b8" stroke-width="3" stroke-linecap="round"/>
+</svg>

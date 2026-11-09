@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 160" fill="none">
+  <!-- Flat, unDraw-style "empty box". Replaceable by a real unDraw download with the same name. -->
+  <ellipse cx="120" cy="142" rx="86" ry="8" fill="#94a3b8" opacity="0.25"/>
+  <path d="M60 70 120 92v50L60 120Z" fill="#cbd5e1"/>
+  <path d="M180 70 120 92v50l60-22Z" fill="#94a3b8"/>
+  <path d="M60 70 120 48l60 22-60 22Z" fill="#e2e8f0"/>
+  <path d="M60 70 40 50l60-22 20 20Z" fill="#cbd5e1"/>
+  <path d="M180 70l20-20-60-22-20 20Z" fill="#cbd5e1"/>
+  <path d="M120 92v50" stroke="#5b6779" stroke-width="2"/>
+  <circle cx="186" cy="30" r="6" fill="#0f9488"/>
+  <circle cx="204" cy="48" r="4" fill="#0f9488" opacity="0.6"/>
+  <circle cx="44" cy="30" r="3" fill="#0f9488" opacity="0.4"/>
+</svg>

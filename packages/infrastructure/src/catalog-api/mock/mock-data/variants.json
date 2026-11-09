@@ -1,0 +1,300 @@
+{
+  "PRD-1201": {
+    "variants": [
+      {
+        "id": "PRD-1201",
+        "label": "Measuring range 0…1 bar",
+        "cableLength": null
+      },
+      {
+        "id": "PRD-1202",
+        "label": "Measuring range 0…10 bar",
+        "cableLength": null
+      },
+      {
+        "id": "PRD-1203",
+        "label": "Measuring range 0…25 bar",
+        "cableLength": null
+      },
+      {
+        "id": "PRD-1204",
+        "label": "Measuring range 0…100 bar",
+        "cableLength": null
+      },
+      {
+        "id": "PRD-1205",
+        "label": "Measuring range 0…400 bar",
+        "cableLength": null
+      }
+    ]
+  },
+  "PRD-1202": {
+    "variants": [
+      {
+        "id": "PRD-1201",
+        "label": "Measuring range 0…1 bar",
+        "cableLength": null
+      },
+      {
+        "id": "PRD-1202",
+        "label": "Measuring range 0…10 bar",
+        "cableLength": null
+      },
+      {
+        "id": "PRD-1203",
+        "label": "Measuring range 0…25 bar",
+        "cableLength": null
+      },
+      {
+        "id": "PRD-1204",
+        "label": "Measuring range 0…100 bar",
+        "cableLength": null
+      },
+      {
+        "id": "PRD-1205",
+        "label": "Measuring range 0…400 bar",
+        "cableLength": null
+      }
+    ]
+  },
+  "PRD-1203": {
+    "variants": [
+      {
+        "id": "PRD-1201",
+        "label": "Measuring range 0…1 bar",
+        "cableLength": null
+      },
+      {
+        "id": "PRD-1202",
+        "label": "Measuring range 0…10 bar",
+        "cableLength": null
+      },
+      {
+        "id": "PRD-1203",
+        "label": "Measuring range 0…25 bar",
+        "cableLength": null
+      },
+      {
+        "id": "PRD-1204",
+        "label": "Measuring range 0…100 bar",
+        "cableLength": null
+      },
+      {
+        "id": "PRD-1205",
+        "label": "Measuring range 0…400 bar",
+        "cableLength": null
+      }
+    ]
+  },
+  "PRD-1204": {
+    "variants": [
+      {
+        "id": "PRD-1201",
+        "label": "Measuring range 0…1 bar",
+        "cableLength": null
+      },
+      {
+        "id": "PRD-1202",
+        "label": "Measuring range 0…10 bar",
+        "cableLength": null
+      },
+      {
+        "id": "PRD-1203",
+        "label": "Measuring range 0…25 bar",
+        "cableLength": null
+      },
+      {
+        "id": "PRD-1204",
+        "label": "Measuring range 0…100 bar",
+        "cableLength": null
+      },
+      {
+        "id": "PRD-1205",
+        "label": "Measuring range 0…400 bar",
+        "cableLength": null
+      }
+    ]
+  },
+  "PRD-1205": {
+    "variants": [
+      {
+        "id": "PRD-1201",
+        "label": "Measuring range 0…1 bar",
+        "cableLength": null
+      },
+      {
+        "id": "PRD-1202",
+        "label": "Measuring range 0…10 bar",
+        "cableLength": null
+      },
+      {
+        "id": "PRD-1203",
+        "label": "Measuring range 0…25 bar",
+        "cableLength": null
+      },
+      {
+        "id": "PRD-1204",
+        "label": "Measuring range 0…100 bar",
+        "cableLength": null
+      },
+      {
+        "id": "PRD-1205",
+        "label": "Measuring range 0…400 bar",
+        "cableLength": null
+      }
+    ]
+  },
+  "PRD-1301": {
+    "variants": [
+      {
+        "id": "PRD-1301",
+        "label": "2 m PUR cable; M12 socket, straight",
+        "cableLength": 2
+      },
+      {
+        "id": "PRD-1302",
+        "label": "5 m PUR cable; M12 socket, straight",
+        "cableLength": 5
+      },
+      {
+        "id": "PRD-1303",
+        "label": "10 m PUR cable; M12 socket, straight",
+        "cableLength": 10
+      },
+      {
+        "id": "PRD-1304",
+        "label": "15 m PUR cable; M12 socket, straight",
+        "cableLength": 15
+      }
+    ]
+  },
+  "PRD-1302": {
+    "variants": [
+      {
+        "id": "PRD-1301",
+        "label": "2 m PUR cable; M12 socket, straight",
+        "cableLength": 2
+      },
+      {
+        "id": "PRD-1302",
+        "label": "5 m PUR cable; M12 socket, straight",
+        "cableLength": 5
+      },
+      {
+        "id": "PRD-1303",
+        "label": "10 m PUR cable; M12 socket, straight",
+        "cableLength": 10
+      },
+      {
+        "id": "PRD-1304",
+        "label": "15 m PUR cable; M12 socket, straight",
+        "cableLength": 15
+      }
+    ]
+  },
+  "PRD-1303": {
+    "variants": [
+      {
+        "id": "PRD-1301",
+        "label": "2 m PUR cable; M12 socket, straight",
+        "cableLength": 2
+      },
+      {
+        "id": "PRD-1302",
+        "label": "5 m PUR cable; M12 socket, straight",
+        "cableLength": 5
+      },
+      {
+        "id": "PRD-1303",
+        "label": "10 m PUR cable; M12 socket, straight",
+        "cableLength": 10
+      },
+      {
+        "id": "PRD-1304",
+        "label": "15 m PUR cable; M12 socket, straight",
+        "cableLength": 15
+      }
+    ]
+  },
+  "PRD-1304": {
+    "variants": [
+      {
+        "id": "PRD-1301",
+        "label": "2 m PUR cable; M12 socket, straight",
+        "cableLength": 2
+      },
+      {
+        "id": "PRD-1302",
+        "label": "5 m PUR cable; M12 socket, straight",
+        "cableLength": 5
+      },
+      {
+        "id": "PRD-1303",
+        "label": "10 m PUR cable; M12 socket, straight",
+        "cableLength": 10
+      },
+      {
+        "id": "PRD-1304",
+        "label": "15 m PUR cable; M12 socket, straight",
+        "cableLength": 15
+      }
+    ]
+  },
+  "PRD-1305": {
+    "variants": [
+      {
+        "id": "PRD-1305",
+        "label": "2 m PUR cable; M12 socket, angled",
+        "cableLength": 2
+      },
+      {
+        "id": "PRD-1306",
+        "label": "5 m PUR cable; M12 socket, angled",
+        "cableLength": 5
+      },
+      {
+        "id": "PRD-1307",
+        "label": "10 m PUR cable; M12 socket, angled",
+        "cableLength": 10
+      }
+    ]
+  },
+  "PRD-1306": {
+    "variants": [
+      {
+        "id": "PRD-1305",
+        "label": "2 m PUR cable; M12 socket, angled",
+        "cableLength": 2
+      },
+      {
+        "id": "PRD-1306",
+        "label": "5 m PUR cable; M12 socket, angled",
+        "cableLength": 5
+      },
+      {
+        "id": "PRD-1307",
+        "label": "10 m PUR cable; M12 socket, angled",
+        "cableLength": 10
+      }
+    ]
+  },
+  "PRD-1307": {
+    "variants": [
+      {
+        "id": "PRD-1305",
+        "label": "2 m PUR cable; M12 socket, angled",
+        "cableLength": 2
+      },
+      {
+        "id": "PRD-1306",
+        "label": "5 m PUR cable; M12 socket, angled",
+        "cableLength": 5
+      },
+      {
+        "id": "PRD-1307",
+        "label": "10 m PUR cable; M12 socket, angled",
+        "cableLength": 10
+      }
+    ]
+  }
+}

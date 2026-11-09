@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Product Explorer mark: an isometric box with a magnifier lens, on the teal accent. -->
+  <rect width="64" height="64" fill="#0f9488"/>
+  <path d="M32 13 49 22.5v19L32 51 15 41.5v-19Z" fill="#e8f0f3"/>
+  <path d="M32 13 49 22.5 32 32 15 22.5Z" fill="#ffffff"/>
+  <path d="M32 32v19l17-9.5v-19Z" fill="#cbd5e1"/>
+  <circle cx="40" cy="40" r="7" fill="none" stroke="#0b1220" stroke-width="3"/>
+  <path d="m45 45 5.5 5.5" stroke="#0b1220" stroke-width="3.5" stroke-linecap="round"/>
+</svg>

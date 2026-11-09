@@ -1,0 +1,42 @@
+// Primitive colours (raw palette).
+// Only used to define the semantic tokens in `_colors.scss`; components never use these directly.
+// Cool slate neutrals with one teal accent. To re-theme the app, change the values here;
+// `contrast.test.ts` checks that every text/background pair still reaches WCAG AA.
+
+// Slate neutrals, light (0) to dark (950)
+$neutral-0: #ffffff;
+$neutral-25: #f1f5f9;
+$neutral-50: #f8fafc;
+$neutral-100: #eef2f6;
+$neutral-150: #e2e8f0;
+$neutral-300: #cbd5e1;
+$neutral-400: #94a3b8;
+$neutral-450: #7b8798;
+$neutral-500: #5b6779;
+$neutral-700: #334155;
+$neutral-800: #283548;
+$neutral-850: #1e293b;
+$neutral-900: #162032;
+$neutral-925: #111a2b;
+$neutral-950: #0b1220;
+
+// Cool tints (image tiles, highlighted sections)
+$tint-50: #f1f6f8;
+$tint-100: #e8f0f3;
+$tint-150: #e4ecef;
+
+// Teal accent
+$teal-400: #2fbfb1;
+$teal-450: #18a99b;
+$teal-500: #0f9488;
+$teal-700: #0a6158;
+
+// Status colours
+$red-300: #ffa198;
+$red-700: #b42318;
+$red-50: #fdecea;
+$red-950: #3a1d1a;
+$amber-300: #ffc766;
+$amber-800: #8a4b00;
+$amber-50: #fff4dc;
+$amber-950: #3a2e14;

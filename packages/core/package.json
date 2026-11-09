@@ -1,0 +1,14 @@
+{
+  "name": "@product-explorer/core",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "main": "index.ts",
+  "types": "index.ts",
+  "scripts": {
+    "typecheck": "tsc -p tsconfig.json"
+  },
+  "exports": {
+    ".": "./index.ts"
+  }
+}
