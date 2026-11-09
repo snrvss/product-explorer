@@ -8,8 +8,7 @@
   "workspaces": [
     "packages/core",
     "packages/infrastructure",
-    "packages/app",
-    "apps/api"
+    "packages/app"
   ],
   "scripts": {
     "dev": "npm run dev -w @product-explorer/app",
