@@ -1,5 +1,10 @@
 # Product Explorer
 
+**[Live demo](https://product-explorer-dusky.vercel.app)** · Vue 3 · TypeScript · Pinia · Vite ·
+Vitest · hexagonal architecture
+
+[![Product Explorer: product detail page with key features and an accessory list](docs/images/screenshot.png)](https://product-explorer-dusky.vercel.app)
+
 A product detail page for an industrial sensor catalog, built with **Vue 3 + TypeScript** in a
 hexagonal (ports and adapters) architecture. It shows one main product (photo, information,
 variants, key features) and below it, in two tabs, its **accessories** and the **other products of
@@ -12,6 +17,30 @@ has its own loading and error state.
 It runs out of the box on a **fictional mock catalog** (30 products, 5 categories, accessories and
 variants) stored as local JSON files. A real catalog API can be plugged in through one environment
 variable, without changing core or UI.
+
+## Highlights
+
+- **Stays smooth on a slow API:** accessory lists load in pages of 4 cards, at most 4 requests run
+  at the same time, and outdated requests are cancelled with `AbortController`.
+- **Failures stay local:** every section and every card has its own loading and error state with
+  "Try again", so one broken request never breaks the page.
+- **External data is validated:** every response is checked (`readX`) before it is mapped to
+  domain types (`convertX`), so a format change fails loudly instead of showing broken data.
+- **Hexagonal monorepo:** framework-free `core`, swappable adapters in `infrastructure`, Vue in
+  `app`. The mock catalog and a real REST API plug into the same port.
+- **German and English** UI with the language in the URL, light and dark theme, WCAG AA contrast
+  checked by tests.
+- **641 Vitest tests** across all three packages.
+
+## Tech stack
+
+| Area       | Tools                                                            |
+| ---------- | ---------------------------------------------------------------- |
+| Frontend   | Vue 3 (Composition API), TypeScript, Vue Router, Pinia, vue-i18n |
+| Styling    | SCSS with design tokens, light and dark mode                     |
+| Build      | Vite, npm workspaces                                             |
+| Quality    | Vitest, Vue Test Utils, ESLint, Prettier, `vue-tsc`              |
+| Deployment | Vercel                                                           |
 
 ## Getting started
 
@@ -162,3 +191,11 @@ Over 640 Vitest tests, next to the code (`*.test.ts`):
 - **app:** components in all states, stores (cancelling, stale answers, paging, parallel limit),
   sections, router, i18n, configuration, demo mode, colour contrast of both themes, and
   request-count guards for the page
+
+## Roadmap
+
+- **Backend (in progress):** a NestJS API with PostgreSQL and Prisma that serves the catalog in the
+  format the `HttpCatalogAdapter` already expects, so the frontend switches over with
+  `VITE_CATALOG_ADAPTER=http` and no code changes.
+- Automatic retries with backoff for flaky networks.
+- Category names in the breadcrumbs once the API provides them.
